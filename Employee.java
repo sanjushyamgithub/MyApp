@@ -4,4 +4,5 @@ class Employee{
 	String eemail;
 	String eaddrs;
 	String epin;
+	String emob;
 }
